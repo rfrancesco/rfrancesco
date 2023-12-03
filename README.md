@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rfrancesco
-- 👀 I’m interested in Computational Physics and number crunching in general
+- 👀 I’m interested in Computational Physics and numerics-heavy fields
 - 🌱 I’m currently learning C++ and SDL
 
 <!---

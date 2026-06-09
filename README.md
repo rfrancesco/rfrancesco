@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rfrancesco
 - 👀 I’m interested in Computational Physics and numerics-heavy fields
-- 🌱 I’m currently learning C++ and SDL
+- 🌱 I’m currently learning C# and .NET Backend (ASP.NET, Entity Framework Core)
 
 <!---
 rfrancesco/rfrancesco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
